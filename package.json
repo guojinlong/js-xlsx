@@ -20,7 +20,8 @@
 		"cfb":"~0.11.0",
 		"crc-32":"~1.0.0",
 		"adler-32":"~1.0.0",
-		"commander":"~2.9.0"
+		"commander":"~2.9.0",
+		"iconv-lite": "^0.4.15",
 	},
 	"devDependencies": {
 		"mocha":"",
